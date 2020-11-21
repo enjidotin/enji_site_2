@@ -13,4 +13,4 @@ I naturally applied at a number of startups, even cold emailed a few founders wi
 
 in many ways this is a ridiculing process in others its humbing.
 
-btw i stole this template from a much more talented front end developer than me check them out ( https://github.com/rolwin100 "here")
+btw i stole this template from a much more talented front end developer than me check them out [Here](https://github.com/rolwin100)
