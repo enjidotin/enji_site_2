@@ -6,7 +6,7 @@ const SkillsProgress = () => (
   <div>
     <h2>My Skills</h2>
     <Row gutter={[20, 20]}>
-      <Col xs={24} sm={24} md={12}>
+      {/* <Col xs={24} sm={24} md={12}>
 
         <ProgressBar
           percent={80}
@@ -42,7 +42,7 @@ const SkillsProgress = () => (
           percent={80}
           text="Wordpress"
         />
-      </Col>
+      </Col> */}
     </Row>
   </div>
 );

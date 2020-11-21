@@ -20,7 +20,7 @@ const AboutMe = () => {
           title="About"
           description={description}
           path=""
-          keywords={['Rolwin', 'Reevan', 'Monteiro', 'FullStack developer', 'Javascript', 'ReactJS', 'NodeJS', 'Gatsby']}
+          keywords={['Naman', 'Garg', 'DevOps Engineer', 'FullStack developer', 'Javascript', 'ReactJS', 'NodeJS', 'AWS']}
         />
         <h1 className="titleSeparate">About Me</h1>
         <p>
@@ -28,14 +28,15 @@ const AboutMe = () => {
         </p>
         <p dangerouslySetInnerHTML={domHtml(pageText.paraTwo)} />
       </div>
-      <Row gutter={[20, 20]}>
+      {/* <Row gutter={[20, 20]}>
         <Col xs={24} sm={24} md={12} lg={8}>
           <AboutTile
-            img="location.png"
+            img="cp.png"
             height={60}
-            alt="location image"
+            alt="CP"
             textH4="Born and bought up in"
             textH3="Mangalore, KA, India"
+            link = "www.google.com"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
@@ -82,7 +83,7 @@ const AboutMe = () => {
             width={60}
           />
         </Col>
-      </Row>
+      </Row> */}
     </>
   );
 };

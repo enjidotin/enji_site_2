@@ -3,10 +3,10 @@ import style from './about.module.less';
 
 const AboutTile = (props) => {
   const {
-    img, textH4, textH3, alt, height, width,
+    img, textH4, textH3, alt, height, width,link,
   } = props;
   return (
-    <div className={style.aboutTile}>
+    <div className={style.aboutTile} href = {link}>
       <div className={style.aboutBlock}>
         <img
           src={`../${img}`}
