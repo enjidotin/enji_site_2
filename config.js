@@ -6,7 +6,7 @@ module.exports = {
   author: 'Naman Garg',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
-  disqusScript: process.env.DISQUS_SCRIPT || 'https://rolwinreevan.disqus.com/embed.js',
+  disqusScript: process.env.DISQUS_SCRIPT || 'https://enji-2.disqus.com/embed.js',
   pages: {
     home: '/',
     blog: 'blog',
@@ -15,13 +15,13 @@ module.exports = {
     tag: 'tags',
   },
   social: {
-    github: 'https://github.com/rolwin100',
-    facebook: 'https://www.facebook.com/rolwin.monteiro',
-    twitter: 'https://twitter.com/rolwin100',
-    instagram: 'https://www.instagram.com/reevan100/',
+    github: 'https://github.com/superBaniya',
+    facebook: 'https://www.facebook.com/',
+    twitter: 'https://twitter.com/superbaniya',
+    instagram: 'https://www.instagram.com/superbaniya/',
     rss: '/rss.xml',
   },
-  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
+  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/0e15ff8e-dd0e-495d-b9b2-14418e7523b4',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
   tags: {
     javascript: {
