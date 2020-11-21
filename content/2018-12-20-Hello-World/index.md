@@ -1,6 +1,6 @@
 ---
-title: "Hello World - Rolwin's first blog 😇"
-path: blog/hello-world-rolwins-first-blog
+title: "Hello World - Naman's first blog 😇"
+path: blog/hello-world-namans-first-blog
 tags: [javascript, html,css]
 cover: ./rolwin.jpg
 date: 2018-12-20
