@@ -5,6 +5,8 @@ import Header from '../components/PageLayout/Header';
 import SidebarWrapper from '../components/PageLayout/Sidebar';
 import AboutMe from '../components/PageFragments/HomePage/AboutMe';
 import Skills from '../components/PageFragments/HomePage/SkillProgress';
+import ProjectCard from '../components/PageFragments/HomePage/ProjectCard';
+
 
 export default () => (
   <Layout className="outerPadding">
@@ -14,6 +16,7 @@ export default () => (
         <>
           <AboutMe />
           <Skills />
+          <ProjectCard/>
         </>
       </SidebarWrapper>
     </Layout>
