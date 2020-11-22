@@ -8,7 +8,7 @@ import SEO from '../../Seo';
 const pageText = {
   paraOne: `Hey !! My name is Naman Garg. I'm a DevOps Engineer who is
     passionate about startups and product development. I love building products and services the best conversation you can have with me is one where we discuss a business model`,
-  paraTwo: `I work as a developer on MERN stack and prefer <b>AWS</b> for OPS but am always ready to learn. I also founded the Competitive coding club at NMIMS-MPSTME and am an avid competitve coder.`,
+  paraTwo: `I work as a developer on MERN stack and prefer <b>AWS</b> for OPS but am always ready to learn. I also founded the Competitive coding club at NMIMS-MPSTME and am an avid competitive coder.`,
 };
 
 const AboutMe = () => {
