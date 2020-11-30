@@ -26,7 +26,7 @@ export default function ProjectCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="images/poker.jpg"
+          image="poker.jpg"
           title="project Poker"
         />
         <CardContent>
