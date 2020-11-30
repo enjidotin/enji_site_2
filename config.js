@@ -69,6 +69,12 @@ module.exports = {
     //   description: 'A general purpose programming language that is widely used for developing various applications.',
     //   color: '#f9c646',
     // },
+    career: {
+      name: 'career',
+      description: 'a career is defined as a person\'s life\'s work. we spend more time trying to defining it than working.',
+      color: '#f9c646',
+    },
+
 
   },
 };
