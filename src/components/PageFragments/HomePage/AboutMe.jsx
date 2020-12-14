@@ -6,9 +6,8 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Hey !! My name is Naman Garg. I'm a DevOps Engineer who is
-    passionate about startups and product development. I love building products and services the best conversation you can have with me is one where we discuss a business model`,
-  paraTwo: `I work as a developer on MERN stack and prefer <b>AWS</b> for OPS but am always ready to learn. I also founded the Competitive coding club at NMIMS-MPSTME and am an avid competitive coder.`,
+  paraOne: `Hey!, I'm Naman I like making things that people like to use. Hit me up if you want to talk about any ideas or have any feedback on any of my work.`,
+  paraTwo: `I like competitve programming and I'm currently building moodio and working on the <a href ="www.competitivecoding.club">competitive coding club</a> website. I prefer working on the mern stack.`,
 };
 
 const AboutMe = () => {
