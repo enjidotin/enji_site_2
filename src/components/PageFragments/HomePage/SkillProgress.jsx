@@ -4,9 +4,9 @@ import ProgressBar from '../../Progress';
 
 const SkillsProgress = () => (
   <div>
-    <h2>My Projects</h2>
-    <Row gutter={[20, 20]}>
-      {/* <Col xs={24} sm={24} md={12}>
+    <h2>My Work</h2>
+    {/* <Row gutter={[20, 20]}>
+      <Col xs={24} sm={24} md={12}>
 
         <ProgressBar
           percent={80}
@@ -42,8 +42,8 @@ const SkillsProgress = () => (
           percent={80}
           text="Wordpress"
         />
-      </Col> */}
-    </Row>
+      </Col>
+    </Row> */}
   </div>
 );
 
