@@ -7,7 +7,7 @@ import SEO from '../../Seo';
 
 const pageText = {
   paraOne: `Hey!, I'm Naman I like making things that people like to use. Hit me up if you want to talk about any ideas or have any feedback on any of my work.`,
-  paraTwo: `I like competitve programming and I'm currently building moodio and working on the <a href ="www.competitivecoding.club">competitive coding club</a> website. I prefer working on the mern stack.`,
+  paraTwo: `I like competitve programming and I'm currently building moodio and working on the <a href ="http://www.competitivecoding.club">competitive coding club</a> website. I prefer working on the mern stack.`,
 };
 
 const AboutMe = () => {
