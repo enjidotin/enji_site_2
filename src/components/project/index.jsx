@@ -66,7 +66,7 @@ export default function ImgMediaCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="h2">
-          Head, of Competitive Coding Club
+          Head, Competitive Coding Club
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
           built and maintained the <a href="https://competitivecoding.club">CCC website,</a>  <a href="https://discord.gg/MCNujFq">discord</a> server and competed in several events;
