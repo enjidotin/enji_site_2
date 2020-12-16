@@ -66,10 +66,16 @@ export default function ImgMediaCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="h2">
-          Head of Competitive Coding Club
+          Head, of Competitive Coding Club
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-          built and maintained the CCC website, discord cahnnel adn competed in several events
+          built and maintained the <a href="https://competitivecoding.club">CCC website,</a>  <a href="https://discord.gg/MCNujFq">discord</a> server and competed in several events;
+          <br/>
+          <ul>
+            <li><a href="https://www.codechef.com/users/enji">codechef</a></li>
+            <li><a href="https://www.hackerrank.com/Supera">hackerrank</a></li>
+            <li><a href="https://leetcode.com/enji/">leetcode</a></li>
+          </ul>
           </Typography>
         </CardContent>
       </CardActionArea>
