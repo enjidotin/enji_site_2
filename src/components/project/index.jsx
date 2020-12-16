@@ -54,6 +54,35 @@ export default function ImgMediaCard() {
       </CardActions>
     </Card>
     </td>
+    <td >
+    <Card className={classes.root}>
+      <CardActionArea>
+        <CardMedia
+          component="img"
+          alt="poker"
+          height="140"
+          image="ccc.jpg"
+          title="Competitive Coding Club"
+        />
+        <CardContent>
+          <Typography gutterBottom variant="h5" component="h2">
+          Head of Competitive Coding Club
+          </Typography>
+          <Typography variant="body2" color="textSecondary" component="p">
+          built and maintained the CCC website, discord cahnnel adn competed in several events
+          </Typography>
+        </CardContent>
+      </CardActionArea>
+      <CardActions>
+        <Button size="small" color="primary" href="https://competitivecoding.club">
+          Website
+        </Button>
+        <Button size="small" color="primary" href="https://discord.gg/MCNujFq">
+          Discord
+        </Button>
+      </CardActions>
+    </Card>
+    </td>
     </tr>
     </table>
     </div>
