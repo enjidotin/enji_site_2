@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://enji.in/sitemap.xml
+Host: https://enji.in
