@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/pleasefillthisform"
+  to = "https://forms.gle/WTt3n6JiFg1DaiuD7"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
