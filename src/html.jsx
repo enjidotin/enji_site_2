@@ -6,11 +6,24 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+const gdata =()=>{
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9RJRSLRKGB');
+
+}
 export default class HTML extends React.Component {
   render() {
     return (
       <html lang="en-US" {...this.props.htmlAttributes}>
         <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9RJRSLRKGB"></script>
+        <script>
+{gdata}
+        </script>
+
           <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta
